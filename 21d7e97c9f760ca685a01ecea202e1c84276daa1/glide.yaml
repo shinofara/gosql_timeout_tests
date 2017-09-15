@@ -1,0 +1,4 @@
+package: .
+import:
+- package: github.com/go-sql-driver/mysql
+  version: 21d7e97c9f760ca685a01ecea202e1c84276daa1
